@@ -1,6 +1,6 @@
 # AEC_CC_September_2024
 
-**Online Session MS-Teams Link for all sessions:** https://tinyurl.com/2s3yxjnr
+**Online Session MS-Teams Link for all sessions:** https://tinyurl.com/2s3yxjnr <br>
 **GitHub Link:** https://github.com/toarnabtrainer/AEC_CC_September_2024 or https://tinyurl.com/4ypt2hw9
 
 * **Competitive Coding Exam-1 (For Beginners):** www.hackerrank.com/competitive-coding-exam-1-for-beginners-
