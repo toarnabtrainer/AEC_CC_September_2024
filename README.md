@@ -15,7 +15,8 @@
 
 * **CodeChef Problem List:** https://www.codechef.com/YTPP001/
 * **Find Second Largest:** https://www.codechef.com/problems/SECLAR
-* **Closest Divisor:** https://www.codechef.com/YTPP001/problems/CLODIV
+* **Closest Divisor:** https://www.codechef.com/YTPP001/problems/CLODIV (Only Run)
+* **Odd Even Multiple:** https://www.codechef.com/YTPP001/problems/EOMUL (Only Run)
 * **Full Barrier Alchemist:** https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/PIPSQUIK
 * **Cats and Dogs:** https://www.codechef.com/PRACTICE/problems/CATSDOGS
 * **Is Palindrome:** https://www.codechef.com/YTPP001/problems/NUMPLIN
