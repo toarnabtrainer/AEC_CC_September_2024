@@ -19,6 +19,7 @@
 * **Odd Even Multiple:** https://www.codechef.com/YTPP001/problems/EOMUL (Only Run)
 * **Not Last:** https://www.codechef.com/YTPP001/problems/LSTSEV (Only Run)
 * **Raju and His Trip:** https://www.codechef.com/YTPP001/problems/VALTRI (Only Run)
+* **Is Palindrome:** https://www.codechef.com/YTPP001/problems/NUMPLIN (Only Run)
 * 
 * **Full Barrier Alchemist:** https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/PIPSQUIK
 * **Cats and Dogs:** https://www.codechef.com/PRACTICE/problems/CATSDOGS
