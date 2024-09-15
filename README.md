@@ -14,6 +14,7 @@
 **Notepad.pw Link:** https://notepad.pw/p5Achs3EAtvkDLsbUxOg
 
 * **CodeChef Problem List:** https://www.codechef.com/YTPP001/
+* **Find Second Largest:** https://www.codechef.com/problems/SECLAR
 * **Full Barrier Alchemist:** https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/PIPSQUIK
 * **Cats and Dogs:** https://www.codechef.com/PRACTICE/problems/CATSDOGS
 * **Is Palindrome:** https://www.codechef.com/YTPP001/problems/NUMPLIN
