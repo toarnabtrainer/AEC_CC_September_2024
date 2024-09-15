@@ -25,6 +25,8 @@
 * **Cats and Dogs:** https://www.codechef.com/PRACTICE/problems/CATSDOGS
 * **Is Palindrome:** https://www.codechef.com/YTPP001/problems/NUMPLIN
 * **HCF and LCM:** https://www.codechef.com/YTPP001/problems/FDGHLM
+*
+* **CodeChef Various Problem Solving (in Java) GitHub:** https://github.com/charles-wangkai/codechef 
 
 **DSA Playlist on YouTube:** https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA
 
