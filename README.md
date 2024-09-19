@@ -87,7 +87,7 @@
 
 <hr>
 
-![image](https://github.com/user-attachments/assets/9b672bbd-f6d6-4073-9d73-fdce676d490b)
+![image](https://github.com/user-attachments/assets/143adf71-21e7-4f6b-8dc7-3ac7ba8a105d)
 
 <hr>
 
