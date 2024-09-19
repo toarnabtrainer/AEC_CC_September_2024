@@ -87,6 +87,10 @@
 
 <hr>
 
+![image](https://github.com/user-attachments/assets/9b672bbd-f6d6-4073-9d73-fdce676d490b)
+
+<hr>
+
 ## Towards Growth and Towards Success
 
 ![image](https://github.com/user-attachments/assets/078e5be0-8bfb-457b-8864-4c9fc4fcedf9)
