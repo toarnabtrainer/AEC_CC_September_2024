@@ -101,6 +101,10 @@
 
 <hr>
 
+![image](https://github.com/user-attachments/assets/420dd460-2913-47ec-b026-18787fea6f6c)
+
+<hr>
+
 ### Features of Python
 Python is a popular high-level programming language that is used for various purposes such as web development, data analysis, artificial intelligence, scientific computing, and more. Some of the key features of Python include:
 
